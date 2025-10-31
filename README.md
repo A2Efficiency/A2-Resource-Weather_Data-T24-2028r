@@ -1,0 +1,1 @@
+These files are direct conversions from epw weather files to more usable formats of csv as well as an excel file for each location. Orginal files included here as well as on https://github.com/NOR-Codes-Stds/CBECC/tree/main/Weather/2028
